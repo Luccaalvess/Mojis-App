@@ -1,0 +1,30 @@
+.container-main-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 350px;
+    border-radius: 20px;
+    font-size: 50px;
+    background-color: gray;
+    width: 25%;
+    box-shadow: 4px 1px 15px 10px #242222;
+}
+
+.icon-size{
+    font-size: 170px;
+}
+
+.button{
+    font-size: 35px;
+    border-radius: 15px;
+    border: none;
+    background-color: cornflowerblue;
+    color: white;
+    width: 110px;
+    box-shadow: 5px 1px 10px 4px #888888;
+}
+
+.button:hover{
+    scale: 1.1;
+}

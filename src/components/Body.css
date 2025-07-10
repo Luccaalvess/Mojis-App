@@ -1,0 +1,9 @@
+.container-body{
+    /* background-color: aqua; */
+    /* height: calc(100vh - 60px); */
+    min-height: calc(100vh);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.801);
+}
